@@ -60,6 +60,7 @@ const Categories = () => {
         <li className='hover:bg-[#3665f3] hover:text-white'>Electronics</li>
         <li className='hover:bg-[#3665f3] hover:text-white'>Shoes</li>
         <li className='hover:bg-[#3665f3] hover:text-white'>Apparel</li>
+        <li className='hover:bg-[#3665f3] hover:text-white'><Jwellery></Jwellery></li>
       </ul>
     </div>
 
